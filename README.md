@@ -1,6 +1,6 @@
 # Sonido estéreo y ficheros WAVE
 
-## Nom i cognoms
+## Tomàs Lloret Martínez
 
 ## El formato WAVE
 
