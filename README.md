@@ -189,7 +189,8 @@ para que se realice el realce sintáctico en Python del mismo (no vale insertar 
 pantalla, debe hacerse en formato *markdown*).
 
 Inserto también una captura de los codigos funcionando como se muestra en el ejemplo.
-<img src="commands.png" width="380px">
+
+<img src="commands.png" width="600px">
 
 ##### Código de `estereo2mono()`
 
